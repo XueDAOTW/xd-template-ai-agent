@@ -9,3 +9,6 @@ dist/
 db.sqlite
 .idea
 .tee-cloud
+
+!plugin-xuedao/src/**
+!plugin-xuedao/tsup.config.ts
